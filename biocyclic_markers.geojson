@@ -1,1 +1,119 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.58, 52.26]}, "properties": {"name": "Isa\u00e4c Bos", "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png", "iconSize": [40, 60]}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.86, 47.77]}, "properties": {"name": "Moosfeld Gem\u00fcse GmbH", "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png", "iconSize": [40, 60]}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.94, 35.43]}, "properties": {"name": "Edem Fruits", "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png", "iconSize": [40, 60]}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.83, 47.18]}, "properties": {"name": "Solawi Halde", "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png", "iconSize": [40, 60]}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-19.84, 65.48]}, "properties": {"name": "Bl\u00f6ndudalsholar", "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png", "iconSize": [40, 60]}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.92, 4.53]}, "properties": {"name": "Villa Paz (Choachi, Colombia)", "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png", "iconSize": [40, 60]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.58,
+          52.26
+        ]
+      },
+      "properties": {
+        "name": "Isaäc Bos",
+        "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png",
+        "iconSize": [
+          40,
+          60
+        ],
+        "certified": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.86,
+          47.77
+        ]
+      },
+      "properties": {
+        "name": "Moosfeld Gemüse GmbH",
+        "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png",
+        "iconSize": [
+          40,
+          60
+        ],
+        "certified": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.94,
+          35.43
+        ]
+      },
+      "properties": {
+        "name": "Edem Fruits",
+        "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png",
+        "iconSize": [
+          40,
+          60
+        ],
+        "certified": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.83,
+          47.18
+        ]
+      },
+      "properties": {
+        "name": "Solawi Halde",
+        "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png",
+        "iconSize": [
+          40,
+          60
+        ],
+        "certified": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.84,
+          65.48
+        ]
+      },
+      "properties": {
+        "name": "Blöndudalsholar",
+        "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png",
+        "iconSize": [
+          40,
+          60
+        ],
+        "certified": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92,
+          4.53
+        ]
+      },
+      "properties": {
+        "name": "Villa Paz (Choachi, Colombia)",
+        "iconUrl": "https://www.biocyclic-vegan.org/wp-content/uploads/2022/11/WEB__EN_Biocyclic_Vegan_Agriculture_green_white-background_-201x300.png",
+        "iconSize": [
+          40,
+          60
+        ],
+        "certified": "unknown"
+      }
+    }
+  ]
+}
