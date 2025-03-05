@@ -17,7 +17,8 @@
           40,
           60
         ],
-        "certified": "yes"
+        "certified": "yes",
+        "certification_status": "certified"
       }
     },
     {
@@ -36,7 +37,8 @@
           40,
           60
         ],
-        "certified": "yes"
+        "certified": "yes",
+        "certification_status": "certified"
       }
     },
     {
@@ -55,7 +57,8 @@
           40,
           60
         ],
-        "certified": "yes"
+        "certified": "yes",
+        "certification_status": "certified"
       }
     },
     {
@@ -74,7 +77,8 @@
           40,
           60
         ],
-        "certified": "no"
+        "certified": "no",
+        "certification_status": "in_progress"
       }
     },
     {
@@ -93,7 +97,8 @@
           40,
           60
         ],
-        "certified": "no"
+        "certified": "no",
+        "certification_status": "in_progress"
       }
     },
     {
@@ -112,7 +117,8 @@
           40,
           60
         ],
-        "certified": "unknown"
+        "certified": "unknown",
+        "certification_status": "not_certified"
       }
     }
   ]
